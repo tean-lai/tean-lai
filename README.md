@@ -1,4 +1,6 @@
-Hi, I'm Tean, welcome to my GitHub!
+Hi, I'm Tean. I like compilers, programming languages, and microarchitecture.
+
+But lowkey been interested in optimization and scaling problems recently.
 
 <!---
 tean-lai/tean-lai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
